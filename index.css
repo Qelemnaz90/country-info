@@ -1,0 +1,113 @@
+body{
+    background-color:lightgray;
+}
+
+
+.world{
+    width: 100px;
+    height: 100px;
+
+}
+
+.title {
+    display: flex;
+    margin-top: 80px;
+    margin-left: 100px;
+    
+}
+
+input {
+    margin-left: 250px;
+    width: 900px;
+    margin-top: 60px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: x-large;
+    font-style: oblique;
+    
+}
+
+.title h1{
+    width: 500px;
+    text-align: center;
+    margin-left: 300px;
+    font-style: italic;
+    font-size:xx-large;
+
+
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    background-color:darkseagreen;
+}
+
+#countryInfo{
+    width: 400px;
+    margin-left: 350px;
+    height: 60px;
+
+}
+
+#countryInfo h2 {
+    margin-left: 280px;
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+
+    
+}
+
+
+.fl img{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+
+
+
+}
+.fl img:hover {
+    width: 280px;
+    height: 200px;
+    border-radius: 0%;
+    
+}
+
+.fl{
+    margin-left: 300px;
+    background-color:darkgray;
+    width: 300px;
+    border-radius: 10px;
+}
+
+#countryInfo h5{
+    display: flex;
+    font-size: x-large;
+    
+}
+
+
+.all{
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+
+
+.div2{
+    width: 300px;
+    margin-left: 150px;
+    padding-top: 10px;
+    font-size: x-large;
+    background-color:darkgray;
+    text-align: center;
+    font-style: oblique;
+}
+
